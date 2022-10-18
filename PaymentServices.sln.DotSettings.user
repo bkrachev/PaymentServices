@@ -1,0 +1,31 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0a929e97_002D6fd2_002D4a09_002Daae6_002Dcb5d4bb26ca3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="AccountNullTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;And&gt;
+      &lt;TestAncestor&gt;
+        &lt;TestId&gt;NUnit3x::91BE3F04-F8E6-420F-B3DF-6E8717EA52AC::net6.0::PaymentServices.Tests.Tests.AccountNullPaymentTest&lt;/TestId&gt;
+      &lt;/TestAncestor&gt;
+      &lt;Project Location="/Users/boyan.krachev/Projects/PaymentServices/PaymentServices.Tests" Presentation="&amp;lt;PaymentServices.Tests&amp;gt;" /&gt;
+      &lt;Namespace&gt;PaymentServices.Tests&lt;/Namespace&gt;
+    &lt;/And&gt;
+    &lt;And&gt;
+      &lt;TestAncestor&gt;
+        &lt;TestId&gt;NUnit3x::91BE3F04-F8E6-420F-B3DF-6E8717EA52AC::net6.0::PaymentServices.Tests.Tests.PaymentFailsWhenSchemesNotMatch&lt;/TestId&gt;
+      &lt;/TestAncestor&gt;
+      &lt;Project Location="/Users/boyan.krachev/Projects/PaymentServices/PaymentServices.Tests" Presentation="&amp;lt;PaymentServices.Tests&amp;gt;" /&gt;
+      &lt;Namespace&gt;PaymentServices.Tests&lt;/Namespace&gt;
+    &lt;/And&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::91BE3F04-F8E6-420F-B3DF-6E8717EA52AC::net6.0::PaymentServices.Tests.Tests.PaymentFailsWhenBalanceLow&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::91BE3F04-F8E6-420F-B3DF-6E8717EA52AC::net6.0::PaymentServices.Tests.Tests.PaymentFailsWhenAccountStatusNotLive&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::91BE3F04-F8E6-420F-B3DF-6E8717EA52AC::net6.0::PaymentServices.Tests.Tests.PaymentSuccessfulBacs&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::91BE3F04-F8E6-420F-B3DF-6E8717EA52AC::net6.0::PaymentServices.Tests.Tests.PaymentSuccessfulFast&lt;/TestId&gt;
+      &lt;TestId&gt;NUnit3x::91BE3F04-F8E6-420F-B3DF-6E8717EA52AC::net6.0::PaymentServices.Tests.Tests.PaymentSuccessfulChaps&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dc16b3ba_002D9f6f_002D4b00_002Da388_002D26e9f27e1d65/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="AccountNullTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::91BE3F04-F8E6-420F-B3DF-6E8717EA52AC::net6.0::PaymentServices.Tests.Tests.AccountNullTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

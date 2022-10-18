@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "4cjMqOG2pAVzaV/DFu6k47dXIConSbF3DTTvC0rpEkxPkc7Nw5d3//iYPFwhFqupj2hcQawT25LBvc3Jb8wsOw==",
+  "success": true,
+  "projectFilePath": "/Users/boyan.krachev/Projects/PaymentServices/PaymentServices/PaymentServices.csproj",
+  "expectedPackageFiles": [
+    "/Users/boyan.krachev/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/Users/boyan.krachev/.nuget/packages/system.configuration.configurationmanager/6.0.1/system.configuration.configurationmanager.6.0.1.nupkg.sha512",
+    "/Users/boyan.krachev/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",
+    "/Users/boyan.krachev/.nuget/packages/system.security.accesscontrol/6.0.0/system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "/Users/boyan.krachev/.nuget/packages/system.security.cryptography.protecteddata/6.0.0/system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "/Users/boyan.krachev/.nuget/packages/system.security.permissions/6.0.0/system.security.permissions.6.0.0.nupkg.sha512",
+    "/Users/boyan.krachev/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

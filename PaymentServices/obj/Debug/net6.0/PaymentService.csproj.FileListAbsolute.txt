@@ -1,0 +1,12 @@
+/Users/boyan.krachev/Projects/PaymentServices/PaymentService/obj/Debug/net6.0/PaymentService.csproj.AssemblyReference.cache
+/Users/boyan.krachev/Projects/PaymentServices/PaymentService/obj/Debug/net6.0/PaymentService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boyan.krachev/Projects/PaymentServices/PaymentService/obj/Debug/net6.0/PaymentService.AssemblyInfoInputs.cache
+/Users/boyan.krachev/Projects/PaymentServices/PaymentService/obj/Debug/net6.0/PaymentService.AssemblyInfo.cs
+/Users/boyan.krachev/Projects/PaymentServices/PaymentService/obj/Debug/net6.0/PaymentService.csproj.CoreCompileInputs.cache
+/Users/boyan.krachev/Projects/PaymentServices/PaymentService/bin/Debug/net6.0/PaymentService.deps.json
+/Users/boyan.krachev/Projects/PaymentServices/PaymentService/bin/Debug/net6.0/PaymentService.dll
+/Users/boyan.krachev/Projects/PaymentServices/PaymentService/bin/Debug/net6.0/PaymentService.pdb
+/Users/boyan.krachev/Projects/PaymentServices/PaymentService/obj/Debug/net6.0/PaymentService.dll
+/Users/boyan.krachev/Projects/PaymentServices/PaymentService/obj/Debug/net6.0/refint/PaymentService.dll
+/Users/boyan.krachev/Projects/PaymentServices/PaymentService/obj/Debug/net6.0/PaymentService.pdb
+/Users/boyan.krachev/Projects/PaymentServices/PaymentService/obj/Debug/net6.0/ref/PaymentService.dll
